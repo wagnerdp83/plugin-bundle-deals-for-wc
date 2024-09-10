@@ -1,0 +1,55 @@
+/* Add custom styles for WooCommerce Bundle Deals */
+.product-bundle {
+   width:100%
+}
+
+.bundle{
+	background-color: #f9f9f9;
+    border: 1px solid #e1e1e1;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.product-bundle h2 {
+    margin-bottom: 10px;
+    font-size: 1.7em;
+}
+
+.product-bundle p {
+    margin-bottom: 15px;
+}
+
+.columns{
+	display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-between;
+    align-items: center;
+}
+/*
+.add_bundle_to_cart {
+    background-color: #007cba;
+    color: white;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+}
+
+.add_bundle_to_cart:hover {
+    background-color: #005a9c;
+}
+*/
+
+.sale-desc{
+	font-size: 1.3em;
+}
+
+.add_to_cart{
+	text-align:center
+}
+
+#setting-error-tgmpa{display:none}
+
+
